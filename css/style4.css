@@ -781,3 +781,698 @@ section{
 
 }
 
+
+@media (max-width:375px){
+
+    
+
+    .titul{
+        position: relative;
+        left: 20px;
+        font-size: cover;
+        margin-top: -20%;
+        padding: 65px 100px;
+        
+    }
+
+    .titul2{
+        position: absolute;
+        margin-left: -45%;
+        margin-top: -25%;
+        font-size: 55%;
+    }
+
+    .footer{
+        position: absolute;
+        margin-left: -30%;
+        margin-top: -320%;
+    }
+
+    .links{
+        position: absolute;
+        margin-left: -22%;
+    }
+
+    .credit{
+        position: absolute;
+        margin-left: -39%;
+    }
+
+    .flechaiz{
+        position: absolute;
+        width: 80%;
+        margin-top: 35%;
+        margin-left: -50%;
+    }
+
+    .grafia{
+        position: relative;
+        margin-left: -13%;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 50px 100px;
+    }
+
+    .grafia2{
+        position: absolute;
+        margin-left: -40%;
+        margin-top: -20%;
+        font-size: 55%;
+    }
+
+    .adria{
+        position: absolute;
+        margin-top: -30%;
+        width: 250%;
+        height: 150%;
+    }
+
+    .marti{
+        position: absolute;
+        width: 250%;
+        height: 150%;
+    }
+
+    
+    .feliz{
+        margin-top: 20%;
+        margin-left: -19%;
+    }
+    
+
+    .box2{
+        position: relative;
+        margin-left: -104%;
+        height: 19rem;
+        width: 43rem;
+    
+    }
+
+    .review {
+        margin-top: 10%;
+    }
+
+    
+
+    
+
+    #menu-btn{
+        display: inline-block;
+    }
+
+    .header .navbar{
+        position: absolute;
+        top:100%; right: -100%;
+        background: #fff;
+        width: 30rem;
+        height: calc(100vh - 9.5rem);
+    }
+
+    .header .navbar.active{
+        right:0;
+    }
+
+    .header .navbar a{
+        color:var(--black);
+        display: block;
+        margin:1.5rem;
+        padding:.5rem;
+        font-size: 2rem;
+    }
+
+    .header .search-form{
+        width: 90%;
+        right: 2rem;
+    }
+
+    .home{
+        background-position: left;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .home .content h3{
+        font-size: 4.5rem;
+    }
+
+    .home .content p{
+        font-size: 1.5rem;
+    }
+
+}
+
+@media (max-width:414px){
+
+    
+
+    .titul{
+        position: relative;
+        left: 20px;
+        font-size: cover;
+        margin-top: -20%;
+        padding: 65px 100px;
+        
+    }
+
+    .titul2{
+        position: absolute;
+        margin-left: -45%;
+        margin-top: -25%;
+        font-size: 55%;
+    }
+
+    .footer{
+        position: absolute;
+        margin-left: -30%;
+        margin-top: -380%;
+    }
+
+    .links{
+        position: absolute;
+        margin-left: -22%;
+    }
+
+    .credit{
+        position: absolute;
+        margin-left: -39%;
+    }
+
+    .flechaiz{
+        position: absolute;
+        width: 80%;
+        margin-top: 35%;
+        margin-left: -50%;
+    }
+
+    .grafia{
+        position: relative;
+        margin-left: -13%;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 50px 100px;
+    }
+
+    .grafia2{
+        position: absolute;
+        margin-left: -40%;
+        margin-top: -20%;
+        font-size: 55%;
+    }
+
+    .adria{
+        position: absolute;
+        margin-top: -30%;
+        width: 250%;
+        height: 150%;
+    }
+
+    .marti{
+        position: absolute;
+        width: 250%;
+        height: 150%;
+    }
+
+    
+    .feliz{
+        margin-top: -60%;
+        margin-left: -19%;
+    }
+    
+
+    .box2{
+        position: relative;
+        margin-left: -104%;
+        height: 19rem;
+        width: 48rem;
+    
+    }
+
+    .review {
+        margin-top: 10%;
+    }
+
+    
+
+    
+
+    #menu-btn{
+        display: inline-block;
+    }
+
+    .header .navbar{
+        position: absolute;
+        top:100%; right: -100%;
+        background: #fff;
+        width: 30rem;
+        height: calc(100vh - 9.5rem);
+    }
+
+    .header .navbar.active{
+        right:0;
+    }
+
+    .header .navbar a{
+        color:var(--black);
+        display: block;
+        margin:1.5rem;
+        padding:.5rem;
+        font-size: 2rem;
+    }
+
+    .header .search-form{
+        width: 90%;
+        right: 2rem;
+    }
+
+    .home{
+        background-position: left;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .home .content h3{
+        font-size: 4.5rem;
+    }
+
+    .home .content p{
+        font-size: 1.5rem;
+    }
+
+}
+
+@media (max-width:390px){
+
+    
+
+    .titul{
+        position: relative;
+        left: 20px;
+        font-size: cover;
+        margin-top: -20%;
+        padding: 65px 100px;
+        
+    }
+
+    .titul2{
+        position: absolute;
+        margin-left: -45%;
+        margin-top: -25%;
+        font-size: 55%;
+    }
+
+    .footer{
+        position: absolute;
+        margin-left: -30%;
+        margin-top: -380%;
+    }
+
+    .links{
+        position: absolute;
+        margin-left: -22%;
+    }
+
+    .credit{
+        position: absolute;
+        margin-left: -39%;
+    }
+
+    .flechaiz{
+        position: absolute;
+        width: 80%;
+        margin-top: 35%;
+        margin-left: -50%;
+    }
+
+    .grafia{
+        position: relative;
+        margin-left: -13%;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 50px 100px;
+    }
+
+    .grafia2{
+        position: absolute;
+        margin-left: -40%;
+        margin-top: -20%;
+        font-size: 55%;
+    }
+
+    .adria{
+        position: absolute;
+        margin-top: -30%;
+        width: 250%;
+        height: 150%;
+    }
+
+    .marti{
+        position: absolute;
+        width: 250%;
+        height: 150%;
+    }
+
+    
+    .feliz{
+        margin-top: -45%;
+        margin-left: -19%;
+    }
+    
+
+    .box2{
+        position: relative;
+        margin-left: -104%;
+        height: 19rem;
+        width: 48rem;
+    
+    }
+
+    .review {
+        margin-top: 10%;
+    }
+
+    
+
+    
+
+    #menu-btn{
+        display: inline-block;
+    }
+
+    .header .navbar{
+        position: absolute;
+        top:100%; right: -100%;
+        background: #fff;
+        width: 30rem;
+        height: calc(100vh - 9.5rem);
+    }
+
+    .header .navbar.active{
+        right:0;
+    }
+
+    .header .navbar a{
+        color:var(--black);
+        display: block;
+        margin:1.5rem;
+        padding:.5rem;
+        font-size: 2rem;
+    }
+
+    .header .search-form{
+        width: 90%;
+        right: 2rem;
+    }
+
+    .home{
+        background-position: left;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .home .content h3{
+        font-size: 4.5rem;
+    }
+
+    .home .content p{
+        font-size: 1.5rem;
+    }
+
+}
+
+@media (max-width:393px){
+
+    
+
+    .titul{
+        position: relative;
+        left: 20px;
+        font-size: cover;
+        margin-top: -20%;
+        padding: 65px 100px;
+        
+    }
+
+    .titul2{
+        position: absolute;
+        margin-left: -45%;
+        margin-top: -25%;
+        font-size: 55%;
+    }
+
+    .footer{
+        position: absolute;
+        margin-left: -30%;
+        margin-top: -380%;
+    }
+
+    .links{
+        position: absolute;
+        margin-left: -22%;
+    }
+
+    .credit{
+        position: absolute;
+        margin-left: -39%;
+    }
+
+    .flechaiz{
+        position: absolute;
+        width: 80%;
+        margin-top: 35%;
+        margin-left: -50%;
+    }
+
+    .grafia{
+        position: relative;
+        margin-left: -13%;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 50px 100px;
+    }
+
+    .grafia2{
+        position: absolute;
+        margin-left: -40%;
+        margin-top: -20%;
+        font-size: 55%;
+    }
+
+    .adria{
+        position: absolute;
+        margin-top: -30%;
+        width: 250%;
+        height: 150%;
+    }
+
+    .marti{
+        position: absolute;
+        width: 250%;
+        height: 150%;
+    }
+
+    
+    .feliz{
+        margin-top: -45%;
+        margin-left: -19%;
+    }
+    
+
+    .box2{
+        position: relative;
+        margin-left: -104%;
+        height: 19rem;
+        width: 45rem;
+    
+    }
+
+    .review {
+        margin-top: 10%;
+    }
+
+    
+
+    
+
+    #menu-btn{
+        display: inline-block;
+    }
+
+    .header .navbar{
+        position: absolute;
+        top:100%; right: -100%;
+        background: #fff;
+        width: 30rem;
+        height: calc(100vh - 9.5rem);
+    }
+
+    .header .navbar.active{
+        right:0;
+    }
+
+    .header .navbar a{
+        color:var(--black);
+        display: block;
+        margin:1.5rem;
+        padding:.5rem;
+        font-size: 2rem;
+    }
+
+    .header .search-form{
+        width: 90%;
+        right: 2rem;
+    }
+
+    .home{
+        background-position: left;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .home .content h3{
+        font-size: 4.5rem;
+    }
+
+    .home .content p{
+        font-size: 1.5rem;
+    }
+
+}
+
+@media (max-width:360px){
+
+    
+
+    .titul{
+        position: relative;
+        left: 20px;
+        font-size: cover;
+        margin-top: -20%;
+        padding: 65px 100px;
+        
+    }
+
+    .titul2{
+        position: absolute;
+        margin-left: -45%;
+        margin-top: -25%;
+        font-size: 55%;
+    }
+
+    .footer{
+        position: absolute;
+        margin-left: -30%;
+        margin-top: -310%;
+    }
+
+    .links{
+        position: absolute;
+        margin-left: -22%;
+    }
+
+    .credit{
+        position: absolute;
+        margin-left: -39%;
+    }
+
+    .flechaiz{
+        position: absolute;
+        width: 80%;
+        margin-top: 35%;
+        margin-left: -50%;
+    }
+
+    .grafia{
+        position: relative;
+        margin-left: -13%;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 50px 100px;
+    }
+
+    .grafia2{
+        position: absolute;
+        margin-left: -40%;
+        margin-top: -20%;
+        font-size: 55%;
+    }
+
+    .adria{
+        position: absolute;
+        margin-top: -30%;
+        width: 250%;
+        height: 150%;
+    }
+
+    .marti{
+        position: absolute;
+        width: 250%;
+        height: 150%;
+    }
+
+    
+    .feliz{
+        margin-top: -15%;
+        margin-left: -19%;
+    }
+    
+
+    .box2{
+        position: relative;
+        margin-left: -104%;
+        height: 19rem;
+        width: 41rem;
+    
+    }
+
+    .review {
+        margin-top: 10%;
+    }
+
+    
+
+    
+
+    #menu-btn{
+        display: inline-block;
+    }
+
+    .header .navbar{
+        position: absolute;
+        top:100%; right: -100%;
+        background: #fff;
+        width: 30rem;
+        height: calc(100vh - 9.5rem);
+    }
+
+    .header .navbar.active{
+        right:0;
+    }
+
+    .header .navbar a{
+        color:var(--black);
+        display: block;
+        margin:1.5rem;
+        padding:.5rem;
+        font-size: 2rem;
+    }
+
+    .header .search-form{
+        width: 90%;
+        right: 2rem;
+    }
+
+    .home{
+        background-position: left;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .home .content h3{
+        font-size: 4.5rem;
+    }
+
+    .home .content p{
+        font-size: 1.5rem;
+    }
+
+}

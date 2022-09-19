@@ -948,3 +948,968 @@ li {
 
 }
 
+
+
+@media (max-width:360px){
+
+    
+
+    .titul{
+        position: relative;
+        left: 20px;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 30px 100px;
+        
+    }
+
+    .titul2{
+        position: absolute;
+        margin-left: -45%;
+        margin-top: -10%;
+        font-size: 55%;
+    }
+
+    .flechaiz{
+        position: absolute;
+        width: 80%;
+        margin-top: 18%;
+        margin-left: -50%;
+    }
+
+    .grafia{
+        position: relative;
+        margin-left: -13%;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 30px 100px;
+    }
+
+    .grafia2{
+        position: absolute;
+        margin-left: -40%;
+        margin-top: -10%;
+        font-size: 55%;
+    }
+
+    .adria{
+        position: absolute;
+        margin-top: -30%;
+        width: 250%;
+        height: 150%;
+    }
+
+    .marti{
+        position: absolute;
+        width: 250%;
+        height: 150%;
+    }
+
+    .footer{
+        position: absolute;
+        margin-left: -30%;
+        margin-top: 350%;
+    }
+
+    .links{
+        position: absolute;
+        margin-left: -22%;
+    }
+
+    .credit{
+        position: absolute;
+        margin-left: -39%;
+    }
+
+    .contenedor{
+
+        position: absolute;
+        margin-top: 150%;
+        margin-left: 12%;
+    }
+
+    .contenedor2{
+        position: absolute;
+        margin-top: 220%;
+        margin-left: -20%;
+    }
+
+    .contenedor3{
+        position: absolute;
+        margin-top: 350%;
+        margin-left: -53%;
+    }
+
+    #menu-btn{
+        display: inline-block;
+    }
+
+    .header .navbar{
+        position: absolute;
+        top:100%; right: -100%;
+        background: #fff;
+        width: 30rem;
+        height: calc(100vh - 9.5rem);
+    }
+
+    .header .navbar.active{
+        right:0;
+    }
+
+    .header .navbar a{
+        color:var(--black);
+        display: block;
+        margin:1.5rem;
+        padding:.5rem;
+        font-size: 2rem;
+    }
+
+    .header .search-form{
+        width: 90%;
+        right: 2rem;
+    }
+
+    .home{
+        background-position: left;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .home .content h3{
+        font-size: 4.5rem;
+    }
+
+    .home .content p{
+        font-size: 1.5rem;
+    }
+
+}
+
+@media (max-width:375px){
+
+    
+
+    .titul{
+        position: relative;
+        left: 20px;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 30px 100px;
+        
+    }
+
+    .titul2{
+        position: absolute;
+        margin-left: -45%;
+        margin-top: -10%;
+        font-size: 55%;
+    }
+
+    .flechaiz{
+        position: absolute;
+        width: 80%;
+        margin-top: 18%;
+        margin-left: -50%;
+    }
+
+    .grafia{
+        position: relative;
+        margin-left: -13%;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 30px 100px;
+    }
+
+    .grafia2{
+        position: absolute;
+        margin-left: -40%;
+        margin-top: -10%;
+        font-size: 55%;
+    }
+
+    .adria{
+        position: absolute;
+        margin-top: -30%;
+        width: 250%;
+        height: 150%;
+    }
+
+    .marti{
+        position: absolute;
+        width: 250%;
+        height: 150%;
+    }
+
+    .footer{
+        position: absolute;
+        margin-left: -30%;
+        margin-top: 480%;
+    }
+
+    .links{
+        position: absolute;
+        margin-left: -22%;
+    }
+
+    .credit{
+        position: absolute;
+        margin-left: -39%;
+    }
+
+    .contenedor{
+
+        position: absolute;
+        margin-top: 360%;
+        margin-left: 12%;
+    }
+
+    .contenedor2{
+        position: absolute;
+        margin-top: 430%;
+        margin-left: -20%;
+    }
+
+    .contenedor3{
+        position: absolute;
+        margin-top: 500%;
+        margin-left: -53%;
+    }
+
+    #menu-btn{
+        display: inline-block;
+    }
+
+    .header .navbar{
+        position: absolute;
+        top:100%; right: -100%;
+        background: #fff;
+        width: 30rem;
+        height: calc(100vh - 9.5rem);
+    }
+
+    .header .navbar.active{
+        right:0;
+    }
+
+    .header .navbar a{
+        color:var(--black);
+        display: block;
+        margin:1.5rem;
+        padding:.5rem;
+        font-size: 2rem;
+    }
+
+    .header .search-form{
+        width: 90%;
+        right: 2rem;
+    }
+
+    .home{
+        background-position: left;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .home .content h3{
+        font-size: 4.5rem;
+    }
+
+    .home .content p{
+        font-size: 1.5rem;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+@media (max-width:414px){
+
+    
+
+    .titul{
+        position: relative;
+        left: 20px;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 30px 100px;
+        
+    }
+
+    .titul2{
+        position: absolute;
+        margin-left: -45%;
+        margin-top: -10%;
+        font-size: 55%;
+    }
+
+    .flechaiz{
+        position: absolute;
+        width: 80%;
+        margin-top: 18%;
+        margin-left: -50%;
+    }
+
+    .grafia{
+        position: relative;
+        margin-left: -13%;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 30px 100px;
+    }
+
+    .grafia2{
+        position: absolute;
+        margin-left: -40%;
+        margin-top: -10%;
+        font-size: 55%;
+    }
+
+    .adria{
+        position: absolute;
+        margin-top: -30%;
+        width: 250%;
+        height: 150%;
+    }
+
+    .marti{
+        position: absolute;
+        width: 250%;
+        height: 150%;
+    }
+
+    .footer{
+        position: absolute;
+        margin-left: -30%;
+        margin-top: 280%;
+    }
+
+    .links{
+        position: absolute;
+        margin-left: -22%;
+    }
+
+    .credit{
+        position: absolute;
+        margin-left: -39%;
+    }
+
+    
+
+    .contenedor{
+
+        position: absolute;
+        margin-top: 150%;
+        margin-left: 12%;
+    }
+
+    .contenedor2{
+        position: absolute;
+        margin-top: 220%;
+        margin-left: -20%;
+    }
+
+    .contenedor3{
+        position: absolute;
+        margin-top: 290%;
+        margin-left: -53%;
+    }
+
+    #menu-btn{
+        display: inline-block;
+    }
+
+    .header .navbar{
+        position: absolute;
+        top:100%; right: -100%;
+        background: #fff;
+        width: 30rem;
+        height: calc(100vh - 9.5rem);
+    }
+
+    .header .navbar.active{
+        right:0;
+    }
+
+    .header .navbar a{
+        color:var(--black);
+        display: block;
+        margin:1.5rem;
+        padding:.5rem;
+        font-size: 2rem;
+    }
+
+    .header .search-form{
+        width: 90%;
+        right: 2rem;
+    }
+
+    .home{
+        background-position: left;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .home .content h3{
+        font-size: 4.5rem;
+    }
+
+    .home .content p{
+        font-size: 1.5rem;
+    }
+
+}
+
+@media (max-width:375px){
+
+    
+
+    .titul{
+        position: relative;
+        left: 20px;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 30px 100px;
+        
+    }
+
+    .titul2{
+        position: absolute;
+        margin-left: -45%;
+        margin-top: -10%;
+        font-size: 55%;
+    }
+
+    .flechaiz{
+        position: absolute;
+        width: 80%;
+        margin-top: 18%;
+        margin-left: -50%;
+    }
+
+    .grafia{
+        position: relative;
+        margin-left: -13%;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 30px 100px;
+    }
+
+    .grafia2{
+        position: absolute;
+        margin-left: -40%;
+        margin-top: -10%;
+        font-size: 55%;
+    }
+
+    .adria{
+        position: absolute;
+        margin-top: -30%;
+        width: 250%;
+        height: 150%;
+    }
+
+    .marti{
+        position: absolute;
+        width: 250%;
+        height: 150%;
+    }
+
+    .footer{
+        position: absolute;
+        margin-left: -30%;
+        margin-top: 530%;
+    }
+
+    .links{
+        position: absolute;
+        margin-left: -22%;
+    }
+
+    .credit{
+        position: absolute;
+        margin-left: -39%;
+    }
+
+    
+
+    .contenedor{
+
+        position: absolute;
+        margin-top: 360%;
+        margin-left: 12%;
+    }
+
+    .contenedor2{
+        position: absolute;
+        margin-top: 435%;
+        margin-left: -20%;
+    }
+
+    .contenedor3{
+        position: absolute;
+        margin-top: 510%;
+        margin-left: -53%;
+    }
+
+    #menu-btn{
+        display: inline-block;
+    }
+
+    .header .navbar{
+        position: absolute;
+        top:100%; right: -100%;
+        background: #fff;
+        width: 30rem;
+        height: calc(100vh - 9.5rem);
+    }
+
+    .header .navbar.active{
+        right:0;
+    }
+
+    .header .navbar a{
+        color:var(--black);
+        display: block;
+        margin:1.5rem;
+        padding:.5rem;
+        font-size: 2rem;
+    }
+
+    .header .search-form{
+        width: 90%;
+        right: 2rem;
+    }
+
+    .home{
+        background-position: left;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .home .content h3{
+        font-size: 4.5rem;
+    }
+
+    .home .content p{
+        font-size: 1.5rem;
+    }
+
+}
+
+@media (max-width:390px){
+
+    
+
+    .titul{
+        position: relative;
+        left: 20px;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 30px 100px;
+        
+    }
+
+    .titul2{
+        position: absolute;
+        margin-left: -45%;
+        margin-top: -10%;
+        font-size: 55%;
+    }
+
+    .flechaiz{
+        position: absolute;
+        width: 80%;
+        margin-top: 18%;
+        margin-left: -50%;
+    }
+
+    .grafia{
+        position: relative;
+        margin-left: -13%;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 30px 100px;
+    }
+
+    .grafia2{
+        position: absolute;
+        margin-left: -40%;
+        margin-top: -10%;
+        font-size: 55%;
+    }
+
+    .adria{
+        position: absolute;
+        margin-top: -30%;
+        width: 250%;
+        height: 150%;
+    }
+
+    .marti{
+        position: absolute;
+        width: 250%;
+        height: 150%;
+    }
+
+    .footer{
+        position: absolute;
+        margin-left: -30%;
+        margin-top: 340%;
+    }
+
+    .links{
+        position: absolute;
+        margin-left: -22%;
+    }
+
+    .credit{
+        position: absolute;
+        margin-left: -39%;
+    }
+
+    
+
+    .contenedor{
+
+        position: absolute;
+        margin-top: 210%;
+        margin-left: 12%;
+    }
+
+    .contenedor2{
+        position: absolute;
+        margin-top: 280%;
+        margin-left: -20%;
+    }
+
+    .contenedor3{
+        position: absolute;
+        margin-top: 350%;
+        margin-left: -53%;
+    }
+
+    #menu-btn{
+        display: inline-block;
+    }
+
+    .header .navbar{
+        position: absolute;
+        top:100%; right: -100%;
+        background: #fff;
+        width: 30rem;
+        height: calc(100vh - 9.5rem);
+    }
+
+    .header .navbar.active{
+        right:0;
+    }
+
+    .header .navbar a{
+        color:var(--black);
+        display: block;
+        margin:1.5rem;
+        padding:.5rem;
+        font-size: 2rem;
+    }
+
+    .header .search-form{
+        width: 90%;
+        right: 2rem;
+    }
+
+    .home{
+        background-position: left;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .home .content h3{
+        font-size: 4.5rem;
+    }
+
+    .home .content p{
+        font-size: 1.5rem;
+    }
+
+}
+
+@media (max-width:393px){
+
+    
+
+    .titul{
+        position: relative;
+        left: 20px;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 30px 100px;
+        
+    }
+
+    .titul2{
+        position: absolute;
+        margin-left: -45%;
+        margin-top: -10%;
+        font-size: 55%;
+    }
+
+    .flechaiz{
+        position: absolute;
+        width: 80%;
+        margin-top: 18%;
+        margin-left: -50%;
+    }
+
+    .grafia{
+        position: relative;
+        margin-left: -13%;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 30px 100px;
+    }
+
+    .grafia2{
+        position: absolute;
+        margin-left: -40%;
+        margin-top: -10%;
+        font-size: 55%;
+    }
+
+    .adria{
+        position: absolute;
+        margin-top: -30%;
+        width: 250%;
+        height: 150%;
+    }
+
+    .marti{
+        position: absolute;
+        width: 250%;
+        height: 150%;
+    }
+
+    .footer{
+        position: absolute;
+        margin-left: -30%;
+        margin-top: 340%;
+    }
+
+    .links{
+        position: absolute;
+        margin-left: -22%;
+    }
+
+    .credit{
+        position: absolute;
+        margin-left: -39%;
+    }
+
+    
+
+    .contenedor{
+
+        position: absolute;
+        margin-top: 210%;
+        margin-left: 12%;
+    }
+
+    .contenedor2{
+        position: absolute;
+        margin-top: 280%;
+        margin-left: -20%;
+    }
+
+    .contenedor3{
+        position: absolute;
+        margin-top: 350%;
+        margin-left: -53%;
+    }
+
+    #menu-btn{
+        display: inline-block;
+    }
+
+    .header .navbar{
+        position: absolute;
+        top:100%; right: -100%;
+        background: #fff;
+        width: 30rem;
+        height: calc(100vh - 9.5rem);
+    }
+
+    .header .navbar.active{
+        right:0;
+    }
+
+    .header .navbar a{
+        color:var(--black);
+        display: block;
+        margin:1.5rem;
+        padding:.5rem;
+        font-size: 2rem;
+    }
+
+    .header .search-form{
+        width: 90%;
+        right: 2rem;
+    }
+
+    .home{
+        background-position: left;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .home .content h3{
+        font-size: 4.5rem;
+    }
+
+    .home .content p{
+        font-size: 1.5rem;
+    }
+
+}
+
+@media (max-width:360px){
+
+    
+
+    .titul{
+        position: relative;
+        left: 20px;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 30px 100px;
+        
+    }
+
+    .titul2{
+        position: absolute;
+        margin-left: -45%;
+        margin-top: -10%;
+        font-size: 55%;
+    }
+
+    .flechaiz{
+        position: absolute;
+        width: 80%;
+        margin-top: 18%;
+        margin-left: -50%;
+    }
+
+    .grafia{
+        position: relative;
+        margin-left: -13%;
+        font-size: cover;
+        margin-top: -10%;
+        padding: 30px 100px;
+    }
+
+    .grafia2{
+        position: absolute;
+        margin-left: -40%;
+        margin-top: -10%;
+        font-size: 55%;
+    }
+
+    .adria{
+        position: absolute;
+        margin-top: -30%;
+        width: 250%;
+        height: 150%;
+    }
+
+    .marti{
+        position: absolute;
+        width: 250%;
+        height: 150%;
+    }
+
+    .footer{
+        position: absolute;
+        margin-left: -30%;
+        margin-top: 465%;
+    }
+
+    .links{
+        position: absolute;
+        margin-left: -22%;
+    }
+
+    .credit{
+        position: absolute;
+        margin-left: -39%;
+    }
+
+    
+
+    .contenedor{
+
+        position: absolute;
+        margin-top: 330%;
+        margin-left: 12%;
+    }
+
+    .contenedor2{
+        position: absolute;
+        margin-top: 410%;
+        margin-left: -20%;
+    }
+
+    .contenedor3{
+        position: absolute;
+        margin-top: 490%;
+        margin-left: -53%;
+    }
+
+    #menu-btn{
+        display: inline-block;
+    }
+
+    .header .navbar{
+        position: absolute;
+        top:100%; right: -100%;
+        background: #fff;
+        width: 30rem;
+        height: calc(100vh - 9.5rem);
+    }
+
+    .header .navbar.active{
+        right:0;
+    }
+
+    .header .navbar a{
+        color:var(--black);
+        display: block;
+        margin:1.5rem;
+        padding:.5rem;
+        font-size: 2rem;
+    }
+
+    .header .search-form{
+        width: 90%;
+        right: 2rem;
+    }
+
+    .home{
+        background-position: left;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .home .content h3{
+        font-size: 4.5rem;
+    }
+
+    .home .content p{
+        font-size: 1.5rem;
+    }
+
+}
+
